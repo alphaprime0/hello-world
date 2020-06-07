@@ -1,2 +1,2 @@
 # hello-world
-programer with math background
+A programer with math background
